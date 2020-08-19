@@ -1,4 +1,4 @@
-# Hello World 👋
+## Hello World 👋
 
 > Любишь Open Source? Люби PRы отправлять 🛫!
 <!--

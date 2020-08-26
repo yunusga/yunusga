@@ -2,7 +2,7 @@
 
 > Любишь Open Source? Люби PRы отправлять 🛫!
 
-![Yunus Gaziev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusga&count_private=true&show_icons=true&hide_title=true&theme=vue&line_height=22)
+![Yunus Gaziev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusga&count_private=true&show_icons=true&theme=vue&line_height=22)
 <!--
 **yunusga/yunusga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
